@@ -1,5 +1,5 @@
 [frontend]
-54.175.43.155
+54.175.43.155   ansible_ssh_user=root   ansible_ssh_pass=DevOps321    
 
 [backend]
-54.172.137.126
+54.172.137.126   ansible_ssh_user=root   ansible_ssh_pass=DevOps321 
